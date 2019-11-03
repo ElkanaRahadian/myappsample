@@ -1,4 +1,4 @@
-# myapp sample
+# Simple Ways of Using Github 
 
 ## Overview
 Use Git Bash to commit changes in the repository
