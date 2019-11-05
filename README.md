@@ -12,8 +12,8 @@ Learn how to :
 - Remote Repository (GitHub)
 - New Repository (GitHub)
 - Add Remote Repository
-- Adding Read Me
 - Clone Repository (GitHub)
+- Add README
 - Git Pull
 
 ## Setup & Installation 
