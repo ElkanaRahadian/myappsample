@@ -13,7 +13,7 @@ Learn how to :
 - New Repository (GitHub)
 - Add Remote Repository
 - Clone Repository (GitHub)
-- Add Readme
+- Add Readmea
 - Git Pull
 
 ## Setup & Installation 
