@@ -9,7 +9,7 @@ Learn how to :
 - Git Ignore
 - Branches
 - Merge
-- Remote Repository (GitHub)
+- Remote Repository (GitHub)a
 - New Repository (GitHub)
 - Add Remote Repository
 - Clone Repository (GitHub)
