@@ -5,11 +5,11 @@ Use Git Bash to commit changes in the repository
 
 ## Features
 Learn how to :
-- Git Commita
+- Git Commit
 - Git Ignore
 - Branches
 - Merge
-- Remote Repository (GitHub)a
+- Remote Repository (GitHub)
 - New Repository (GitHub)
 - Add Remote Repository
 - Clone Repository (GitHub)
