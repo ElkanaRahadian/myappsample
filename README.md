@@ -5,7 +5,7 @@ Use Git Bash to commit changes in the repository
 
 ## Features
 Learn how to :
-- Git Commit
+- Git Commita
 - Git Ignore
 - Branches
 - Merge
