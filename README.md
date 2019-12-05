@@ -1,7 +1,7 @@
 # Simple Ways of Using Github
 
 ## Overview
-Use of Git Bash to commit changes in the repository
+Using Git Bash to commit changes in the repository
 
 ## Features
 Learn how to :
