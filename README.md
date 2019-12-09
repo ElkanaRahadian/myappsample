@@ -4,7 +4,7 @@
 Use of Git Bash to commit changes in the repository
 
 ## Features
-Learn how to :
+Learning how to :
 - Git Commit
 - Git Ignore
 - Branches
