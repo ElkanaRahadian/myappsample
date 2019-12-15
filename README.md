@@ -10,7 +10,7 @@ Use of Git Bash to commit changes in the repository
 - Merge
 - Remote Repository (GitHub)
 - New Repository (GitHub)
-- Add Remote Repository
+- Adding Remote Repository
 - Clone Repository (GitHub)
 - Add Readmea
 - Git Pull
