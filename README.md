@@ -16,7 +16,7 @@ Use of Git Bash to commit changes in the repository
 - Git Pull
 
 ## Setup & Installation 
-Use of Git & GitHub
+Git Bash & GitHub
 
 ## Usage
 Git bash in use Example :
