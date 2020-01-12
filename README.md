@@ -19,7 +19,7 @@ Use of Git Bash to commit changes in the repository
 Git Bash & GitHub
 
 ## Usage
-Example of Git bash :
+Git bash example :
 
 ![screenshot for readme myappsample](https://user-images.githubusercontent.com/56164259/67875883-974c2b00-fb69-11e9-8055-d3055362fedb.png)
 
