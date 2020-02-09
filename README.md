@@ -12,11 +12,11 @@ Use of Git Bash to commit changes in the repository
 - New Repository (GitHub)
 - Adding Remote Repository
 - Clone Repository (GitHub)
-- Add Readmea
+- Add Readme
 - Git Pull
 
 ## Setup & Installation 
-Using Git Bash & GitHub
+Git Bash & GitHub
 
 ## Usage
 Example of Git bash :
